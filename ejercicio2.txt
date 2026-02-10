@@ -1,0 +1,11 @@
+// Ejercicio 2
+
+“Preparar un licuado de frutas tropicales”:
+- Seleccionar las frutas tropicales (mango, piña, papaya, etc).
+- Lavar las frutas con agua limpia.
+- Pelar y cortar las frutas en trozos pequeños.
+- Colocar los trozos en la licuadora.
+- Agregar agua, leche o jugo según preferencia.
+- Añadir azúcar o miel si se desea.
+- Encender la licuadora y mezclar hasta obtener una textura homogénea.
+- Servir en un vaso y disfrutar.

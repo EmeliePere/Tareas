@@ -1,0 +1,41 @@
+//Ejercicio 3
+
+
+//* - Ejemplo 1
+Situación: Quiero entregar mi tarea a tiempo.  
+- Condiciones: 
+    -Terminar el ejercicio antes de la fecha límite.
+    -Subir el archivo a la plataforma.  
+- Enunciado:Si termino el ejercicio y subo el archivo a la plataforma entonces entrego mi tarea a tiempo.
+
+
+//* - Ejemplo 2
+Situación:Quiero pasar la materia de matemáticas.  
+- Condiciones: 
+    -Estudiar todos los temas. 
+    -Presentar los exámenes.   
+- Enunciado: Si estudio todos los temas y presento los exámenes entonces paso la materia de matemáticas.
+
+
+//* - Ejemplo 3
+Situación: Quiero llegar puntual a clase.  
+- Condiciones:
+    -Tomar el bus temprano. 
+    -Ir en bicicleta.   
+- Enunciado: Si tomo el bus temprano O voy en bicicleta entonces llego puntual a clase.
+
+
+//* - Ejemplo 4
+Situación: Quiero ahorrar dinero este mes.  
+- Condiciones: 
+    -Recibir mi salario. 
+    -No gastar en cosas innecesarias.  
+- Enunciado: Si recibo mi salario y no gasto en cosas innecesarias entonces ahorro dinero este mes.
+
+
+//* - Ejemplo 5
+Situación: Quiero mantenerme saludable.  
+- Condiciones:
+    -Hacer ejercicio regularmente. 
+    -Comer frutas y verduras.  
+- Enunciado: Si hago ejercicio regularmente y como frutas y verduras entonces me mantengo saludable.
