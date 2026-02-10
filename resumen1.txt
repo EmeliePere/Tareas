@@ -1,0 +1,21 @@
+Ejercicio 1: El código binario
+- Convertir frases y tu nombre a binario usando la tabla ASCII (8 bits por carácter).
+- Ejemplo ya resuelto:
+- Frase: “Empezamos el técnico en la Universidad Galileo.” → binario completo listo.
+- Nombre: “Luky” → binario completo listo.
+Ejercicio 2: Algoritmos
+- Plantear pasos ordenados para dos actividades de la lista.
+- Ejemplo ya resuelto:
+- Preparar un licuado de frutas tropicales (paso a paso).
+- Puedes elegir otro (ej. “Sacar a pasear a un perro”) para completar los dos requeridos.
+Ejercicio 3: Proposiciones lógicas
+- Crear 5 situaciones que quieras que sean verdad.
+- Identificar condiciones, explicar cómo afectan, señalar negaciones si existen.
+- Determinar si es conjunción (Y) o disyunción (O).
+- Formar el enunciado compuesto con proposiciones subrayadas.
+- Ejemplos ya resueltos:
+- Entregar tarea a tiempo.
+- Pasar la materia de matemáticas.
+- Llegar puntual a clase.
+- Ahorrar dinero este mes (con negación).
+- Mantenerse saludable.

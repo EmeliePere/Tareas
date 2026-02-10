@@ -1,0 +1,3 @@
+- Crear un programa en JavaScript que pregunte al usuario su mes y día de nacimiento (con prompt) y muestre su signo zodiacal (con alert).
+- Se debe usar parseInt para convertir los valores de prompt en números.
+- El archivo debe llamarse ActividadJS_24000255.js o estar dentro de un .html con <script>.
